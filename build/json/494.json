@@ -1,0 +1,39 @@
+{
+  "dna": "dc72279750b183fc3cf718a244bb78ff62480e8e",
+  "name": "#494",
+  "description": "Little Reapers reside in dark spaces but have recently come to light!",
+  "image": "ipfs://QmenH5bq2UVpFdXZRVR9AReizEYuY27dvhtcidDdUzcK4k/494.png",
+  "edition": 494,
+  "date": 1632616950456,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Night"
+    },
+    {
+      "trait_type": "Outline",
+      "value": "Outline"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Blue Face"
+    },
+    {
+      "trait_type": "Hood",
+      "value": "Little Red Hood"
+    },
+    {
+      "trait_type": "Scythe Handle",
+      "value": "Old Wood Handle"
+    },
+    {
+      "trait_type": "Scythe Blade",
+      "value": "Blue Blade"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black Eyes"
+    }
+  ],
+  "compiler": "DevTech Solutions Art Engine"
+}
